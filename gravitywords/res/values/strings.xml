@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">0.4</string>
+    <string name="app_name">Words of Gravity</string>
+    <string name="credits">AndEngine</string>
+</resources>
